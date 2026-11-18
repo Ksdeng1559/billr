@@ -1,0 +1,103 @@
+{
+  "business": "KlickSmartAI",
+  "currency": "CAD",
+  "pricesExcludeTax": true,
+  "items": [
+    {
+      "sku": "SEO-001",
+      "name": "Google Business Profile Audit",
+      "rate": 199,
+      "unit": "project",
+      "description": "Profile assessment, local ranking baseline and prioritized recommendations.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-002",
+      "name": "Quick SEO Audit",
+      "rate": 299,
+      "unit": "project",
+      "description": "Technical and on-page SEO assessment with prioritized remediation roadmap.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-003",
+      "name": "Schema Audit",
+      "rate": 349,
+      "unit": "project",
+      "description": "Structured data validation and implementation recommendations; implementation excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-004",
+      "name": "Landing Page Audit",
+      "rate": 299,
+      "unit": "project",
+      "description": "Conversion, CTA, usability and performance assessment of one landing page.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-005",
+      "name": "Local Competitor Analysis",
+      "rate": 349,
+      "unit": "project",
+      "description": "Benchmarking against three local competitors.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-006",
+      "name": "SEO Content Plan",
+      "rate": 499,
+      "unit": "project",
+      "description": "Keyword research, content architecture and publication roadmap; production excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "GBP-001",
+      "name": "GBP Optimization",
+      "rate": 500,
+      "unit": "project",
+      "description": "Optimize categories, services and business information for one eligible profile.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-001",
+      "name": "Three-Page Website",
+      "rate": 750,
+      "unit": "project",
+      "description": "Responsive three-page website with lead capture and foundational SEO; hosting and domain excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-002",
+      "name": "Local SEO Microsite",
+      "rate": 995,
+      "unit": "project",
+      "description": "Service-specific local search website; scope agreed before quotation.",
+      "type": "service"
+    },
+    {
+      "sku": "REP-001",
+      "name": "Reputation Management",
+      "rate": 299,
+      "unit": "month",
+      "description": "Monthly review monitoring, response management and reporting for one location.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-101",
+      "name": "Local Growth Management",
+      "rate": 599,
+      "unit": "month",
+      "description": "Monthly local SEO, profile optimization, reputation management and reporting; scope agreed in estimate.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-102",
+      "name": "Local Market Domination",
+      "rate": 1499,
+      "unit": "month",
+      "description": "Monthly local SEO, supporting content, conversion optimization and attribution; scope agreed in estimate.",
+      "type": "service"
+    }
+  ]
+}
