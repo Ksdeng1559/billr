@@ -7,7 +7,7 @@ node scripts/seed-klicksmartai.mjs
 node scripts/seed-klicksmartai.mjs --apply
 ```
 
-The first command previews changes; the second inserts missing saved items. Run only one installer at a time. Existing names (including inactive items) are skipped without changes. Review any differences manually. The installer refuses non-loopback database URLs, ambiguous businesses, and non-CAD businesses. No invoices, estimates, subscriptions or payment requests are created. Rates are before applicable taxes; configure taxes on documents before sending. Monthly units are price labels, not automatic subscriptions. SKU is catalog metadata, not a native Billr item field. After import, check Saved Items (/items) and draft a test estimate. Re-run dry run to verify all 162 items are present. Do not reset the database to import this catalog.
+The first command previews changes; the second inserts missing saved items. Run only one installer at a time. Existing names (including inactive items) are skipped without changes. Review any differences manually. The installer refuses non-loopback database URLs, ambiguous businesses, and non-CAD businesses. No invoices, estimates, subscriptions or payment requests are created. Rates are before applicable taxes; configure taxes on documents before sending. Monthly units are price labels, not automatic subscriptions. SKU is catalog metadata, not a native Billr item field. After import, check Saved Items (/items) and draft a test estimate. Re-run dry run to verify all 167 items are present. Do not reset the database to import this catalog.
 
 ## Lead generation and AI services
 
@@ -19,9 +19,9 @@ Use standalone rates as reference prices, not promises of savings. Measure net r
 
 Bundle items replace corresponding standalone charges, never stack both. Bundle rates are proposed launch guidelines and may be adjusted in draft estimates after human approval. Compare like-for-like scope, remove duplicate task value, and disclose usage, taxes and exclusions. Front desk bundle standalone setup reference ARR-003 + CHAT-001 + AI-004 = 1993; monthly ARR-102 + CHAT-101 + BOOK-101 = 1379. Bundle rates 1495 setup and 1195/month. Existing legacy items remain unchanged; select one tier per workflow. No automatic discounts, metering or subscription charging added. Use approved qualification and regulatory review for performance fees.
 
-## Master offer library v4.0
+## Master offer library v4.1
 
-All 162 items are CAD reference rates; legacy items and rates are preserved. Use one applicable tier or bundle, not overlapping charges. The standard business knowledge chatbot plan CHAT-103 ($149/month) is distinct from outcome-managed CHAT-101 ($480/month). Starting-price custom work requires approved scope. ICP research LG-006 and database reactivation AI-003 are shared across categories, not separate duplicate billable items. WEB-001 includes foundational lead capture; INT or WEB-010 add-ons only for incremental scope. The complete customer acquisition bundle and Local Growth Accelerator are scoped offers, not additive to overlapping department subscriptions. Suggested discounts for distinct integrated standalone services: two 5–10%, three 10–15%, four 15–20%, complete department 20–30%, subject to margin and human approval; no extra automatic discount on a bundle. Credit selected diagnostic fees only when agreed. Do not guarantee savings or rankings.
+All 167 items are CAD reference rates; legacy items and rates are preserved. Use one applicable tier or bundle, not overlapping charges. The standard business knowledge chatbot plan CHAT-103 ($149/month) is distinct from outcome-managed CHAT-101 ($480/month). Starting-price custom work requires approved scope. ICP research LG-006 and database reactivation AI-003 are shared across categories, not separate duplicate billable items. WEB-001 includes foundational lead capture; INT or WEB-010 add-ons only for incremental scope. The complete customer acquisition bundle and Local Growth Accelerator are scoped offers, not additive to overlapping department subscriptions. Suggested discounts for distinct integrated standalone services: two 5–10%, three 10–15%, four 15–20%, complete department 20–30%, subject to margin and human approval; no extra automatic discount on a bundle. Credit selected diagnostic fees only when agreed. Do not guarantee savings or rankings.
 
 ### Vertical lead pricing guide (CAD, not separate automatic saved items)
 
@@ -210,3 +210,12 @@ SEO-001, SEO-002, SEO-004, SEO-003, SEO-005, WEB-012, WEB-001, GBP-001, GBP-003,
 | BND-108 | Local Growth Accelerator Bundle Management | 799 | month |
 | BND-009 | Complete AI Customer Acquisition System Setup | 2995 | project |
 | BND-109 | Complete AI Customer Acquisition System Management | 1499 | month |
+| ARR-005 | Vapi Receptionist Starter Promotion Setup | 299 | project |
+| ARR-107 | Vapi Receptionist Starter Promotion Management | 199 | month |
+| ARR-006 | Vapi Receptionist Standard Managed Setup | 750 | project |
+| ARR-108 | Vapi Receptionist Standard Managed Service | 499 | month |
+| BND-110 | AI Digital Front Desk Competitive Bundle Management | 995 | month |
+
+## Priority implementations
+
+See [Priority AI implementations and sales playbook](klicksmartai-priority-implementations.md) for the six P1 offers, featured packages and outcome KPIs. Competitive rates are alternate saved items, not automatic discounts; existing prices remain unchanged.
