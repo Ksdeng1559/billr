@@ -98,6 +98,134 @@
       "unit": "month",
       "description": "Monthly local SEO, supporting content, conversion optimization and attribution; scope agreed in estimate.",
       "type": "service"
+    },
+    {
+      "sku": "LG-001",
+      "name": "AI Local Lead Generation Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "One service and market: lead capture, qualification criteria, routing and attribution setup. Ad spend and usage excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-002",
+      "name": "AI B2B Outbound Campaign Setup",
+      "rate": 1500,
+      "unit": "project",
+      "description": "One ICP and offer: prospect research workflow, approved messaging, sending configuration and CRM routing. Third-party costs excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-003",
+      "name": "AI Lead Generation Managed Service",
+      "rate": 499,
+      "unit": "month",
+      "description": "Monthly monitoring, optimization and reporting for one campaign. Lead fees, media and usage billed separately.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-101",
+      "name": "Qualified Local Service Lead",
+      "rate": 50,
+      "unit": "item",
+      "description": "One exclusive, contactable, consented enquiry matching agreed service and geography; duplicates and invalid contacts excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-102",
+      "name": "Emergency or High-Value Service Lead",
+      "rate": 100,
+      "unit": "item",
+      "description": "One exclusive qualified high-intent service enquiry matching agreed criteria; duplicates and invalid contacts excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-103",
+      "name": "Verified B2B Prospect",
+      "rate": 15,
+      "unit": "item",
+      "description": "One researched ICP-matched business contact with verified business contact channel; not an inbound enquiry or appointment.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-104",
+      "name": "Qualified B2B Sales Enquiry",
+      "rate": 125,
+      "unit": "item",
+      "description": "One prospect expressing relevant interest and meeting mutually agreed qualification criteria; no sale guaranteed.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-105",
+      "name": "Qualified Attended Sales Appointment",
+      "rate": 250,
+      "unit": "item",
+      "description": "One attended meeting with an ICP-matched prospect and agreed qualification criteria; no-shows excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-106",
+      "name": "Premium Qualified Attended Appointment",
+      "rate": 400,
+      "unit": "item",
+      "description": "One attended meeting with a qualified decision-maker in an agreed high-value B2B vertical; no-shows excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-001",
+      "name": "AI Receptionist Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure one inbound voice agent, approved knowledge, call routing and handoff; telephony and usage excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-002",
+      "name": "AI Receptionist Management",
+      "rate": 299,
+      "unit": "month",
+      "description": "Monthly monitoring and approved knowledge updates; voice and telephony usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-003",
+      "name": "Database Reactivation Campaign Setup",
+      "rate": 499,
+      "unit": "project",
+      "description": "Segment one permissioned customer database, prepare approved messaging and configure response routing; sending costs excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-004",
+      "name": "AI Booking Agent Setup",
+      "rate": 499,
+      "unit": "project",
+      "description": "Configure one booking workflow, calendar integration and confirmation/reminder templates; usage excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-001",
+      "name": "Google Ads Campaign Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure one search campaign, conversion tracking and initial keyword and ad assets; media spend excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-002",
+      "name": "Google Ads Management",
+      "rate": 599,
+      "unit": "month",
+      "description": "Monthly management of one agreed search campaign; media spend and additional campaigns excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "VID-001",
+      "name": "AI Promotional Video",
+      "rate": 299,
+      "unit": "project",
+      "description": "One short AI-assisted promotional video with approved script and CTA; one revision included.",
+      "type": "service"
     }
   ]
 }
