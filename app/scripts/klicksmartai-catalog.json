@@ -1298,6 +1298,46 @@
       "unit": "month",
       "description": "Agreed integrated customer acquisition management; usage, media and performance fees separate.",
       "type": "service"
+    },
+    {
+      "sku": "ARR-005",
+      "name": "Vapi Receptionist Starter Promotion Setup",
+      "rate": 299,
+      "unit": "project",
+      "description": "Standardized inbound Vapi agent with approved FAQs, basic lead capture and booking; eligibility and scope confirmed before quote.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-107",
+      "name": "Vapi Receptionist Starter Promotion Management",
+      "rate": 199,
+      "unit": "month",
+      "description": "Standardized inbound agent monitoring and basic support; usage separate; alternative to other receptionist plans.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-006",
+      "name": "Vapi Receptionist Standard Managed Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Standard inbound Vapi agent, agreed calendar and CRM integration, handoff and testing.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-108",
+      "name": "Vapi Receptionist Standard Managed Service",
+      "rate": 499,
+      "unit": "month",
+      "description": "Standard managed voice agent, booking and agreed integration monitoring; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-110",
+      "name": "AI Digital Front Desk Competitive Bundle Management",
+      "rate": 995,
+      "unit": "month",
+      "description": "Managed Vapi voice, website chatbot, booking and standard CRM integration; outcome reporting within agreed scope; replaces BND-102 for eligible quotes; usage separate.",
+      "type": "service"
     }
   ]
 }
