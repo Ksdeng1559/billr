@@ -226,6 +226,334 @@
       "unit": "project",
       "description": "One short AI-assisted promotional video with approved script and CTA; one revision included.",
       "type": "service"
+    },
+    {
+      "sku": "OUT-001",
+      "name": "Workforce Productivity Assessment",
+      "rate": 499,
+      "unit": "project",
+      "description": "Baseline task volumes, loaded labour cost, human review, incremental contribution and projected ROI.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-001",
+      "name": "Receptionist Productivity Assessment",
+      "rate": 199,
+      "unit": "project",
+      "description": "Assess call volumes, missed enquiries, booking conversion and recoverable staff time.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-002",
+      "name": "Essential Vapi Receptionist Deployment",
+      "rate": 499,
+      "unit": "project",
+      "description": "One inbound 24/7 voice agent with basic knowledge, lead capture, booking and escalation; subject to platform availability.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-003",
+      "name": "Professional Vapi Receptionist Deployment",
+      "rate": 995,
+      "unit": "project",
+      "description": "One inbound voice agent with custom knowledge, calendar, CRM, notifications and call routing.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-004",
+      "name": "AI Revenue Receptionist Deployment",
+      "rate": 1995,
+      "unit": "project",
+      "description": "Managed voice and chat workflows, qualification, attribution and baseline economic impact assessment.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-101",
+      "name": "Essential AI Receptionist",
+      "rate": 299,
+      "unit": "month",
+      "description": "Basic managed inbound call answering; usage separate. Alternative to legacy AI receptionist management.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-102",
+      "name": "Professional AI Receptionist",
+      "rate": 750,
+      "unit": "month",
+      "description": "Managed voice agent with booking, CRM, quality review and monthly optimization; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-103",
+      "name": "AI Revenue Receptionist",
+      "rate": 1495,
+      "unit": "month",
+      "description": "Managed voice and chat, advanced attribution and economic impact reporting; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-104",
+      "name": "Qualified Receptionist Appointment",
+      "rate": 50,
+      "unit": "item",
+      "description": "One accepted qualified appointment attributable to agreed incremental activity; no duplicate performance billing.",
+      "type": "service"
+    },
+    {
+      "sku": "ARR-105",
+      "name": "High-Value Qualified Receptionist Appointment",
+      "rate": 100,
+      "unit": "item",
+      "description": "One accepted qualified high-value appointment meeting agreed attribution and qualification rules.",
+      "type": "service"
+    },
+    {
+      "sku": "CHAT-001",
+      "name": "AI Business Knowledge Chatbot Setup",
+      "rate": 499,
+      "unit": "project",
+      "description": "Website AI chat, approved knowledge, lead capture and human escalation.",
+      "type": "service"
+    },
+    {
+      "sku": "CHAT-101",
+      "name": "AI Business Knowledge Chatbot Management",
+      "rate": 480,
+      "unit": "month",
+      "description": "Outcome-oriented managed website chatbot, QA and optimization; rate subject to validated workload and usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "BOOK-101",
+      "name": "AI Booking Agent Management",
+      "rate": 149,
+      "unit": "month",
+      "description": "Maintain agreed calendar workflow, booking confirmations and reminders; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-002",
+      "name": "AI Administrative Assistant Setup",
+      "rate": 995,
+      "unit": "project",
+      "description": "Implement agreed repetitive administrative workflows and human review.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-102",
+      "name": "AI Administrative Assistant Managed Service",
+      "rate": 800,
+      "unit": "month",
+      "description": "Guideline rate for validated administrative workload; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-003",
+      "name": "AI Customer Service Agent Setup",
+      "rate": 995,
+      "unit": "project",
+      "description": "Implement approved support knowledge, triage and escalation.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-103",
+      "name": "AI Customer Service Agent Managed Service",
+      "rate": 960,
+      "unit": "month",
+      "description": "Guideline rate for validated support workload; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-004",
+      "name": "AI Appointment Setter Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Implement agreed compliant qualification and appointment workflows.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-104",
+      "name": "AI Appointment Setter Managed Service",
+      "rate": 1080,
+      "unit": "month",
+      "description": "Guideline rate for validated appointment-setting workload; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-005",
+      "name": "AI Sales Development Agent Setup",
+      "rate": 1500,
+      "unit": "project",
+      "description": "Implement approved prospect research, outreach, qualification and CRM workflows.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-105",
+      "name": "AI Sales Development Agent Managed Service",
+      "rate": 1440,
+      "unit": "month",
+      "description": "Guideline rate for managed SDR workload; performance and usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-006",
+      "name": "AI Marketing Coordinator Setup",
+      "rate": 995,
+      "unit": "project",
+      "description": "Configure agreed content, campaign and reporting workflows with approval gates.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-106",
+      "name": "AI Marketing Coordinator Managed Service",
+      "rate": 1200,
+      "unit": "month",
+      "description": "Guideline rate for validated marketing workload; media and usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-007",
+      "name": "AI Local SEO Specialist Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure local search audit, optimization and reporting workflows.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-107",
+      "name": "AI Local SEO Specialist Managed Service",
+      "rate": 1400,
+      "unit": "month",
+      "description": "Guideline rate for managed local SEO workload; distinct scope from standard SEO plans.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-008",
+      "name": "AI Business Development Agent Setup",
+      "rate": 1995,
+      "unit": "project",
+      "description": "Configure agreed business development research, qualification and handoff workflows.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-108",
+      "name": "AI Business Development Agent Managed Service",
+      "rate": 1800,
+      "unit": "month",
+      "description": "Guideline rate for validated business development workload; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-009",
+      "name": "AI CRM Administrator Setup",
+      "rate": 995,
+      "unit": "project",
+      "description": "Configure CRM data hygiene, routing, tasks and reporting workflows.",
+      "type": "service"
+    },
+    {
+      "sku": "EMP-109",
+      "name": "AI CRM Administrator Managed Service",
+      "rate": 1300,
+      "unit": "month",
+      "description": "Guideline rate for validated CRM administration workload; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-001",
+      "name": "Get Found Bundle Setup",
+      "rate": 995,
+      "unit": "project",
+      "description": "Three-page website and GBP optimization; replaces separate WEB-001 and GBP-001 charges.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-002",
+      "name": "AI Digital Front Desk Bundle Setup",
+      "rate": 1495,
+      "unit": "project",
+      "description": "Professional Vapi receptionist, business chatbot and booking workflow; replaces component setup charges.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-102",
+      "name": "AI Digital Front Desk Bundle Management",
+      "rate": 1195,
+      "unit": "month",
+      "description": "Managed voice, chat and booking with monthly outcome reporting; replaces component management; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-003",
+      "name": "AI Local Marketing Department Bundle Setup",
+      "rate": 1995,
+      "unit": "project",
+      "description": "Marketing coordinator, local SEO and review generation setup; replaces component charges.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-103",
+      "name": "AI Local Marketing Department Bundle Management",
+      "rate": 1800,
+      "unit": "month",
+      "description": "Managed marketing, local SEO and reputation workflows; usage and media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-004",
+      "name": "AI Customer Acquisition Department Bundle Setup",
+      "rate": 2995,
+      "unit": "project",
+      "description": "SDR, business development and CRM automation setup; replaces component setup charges.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-104",
+      "name": "AI Customer Acquisition Department Bundle Management",
+      "rate": 2400,
+      "unit": "month",
+      "description": "Managed prospecting, sales development and CRM workflows; approved outreach, usage and incremental performance fees separate.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-005",
+      "name": "AI Business Operations Department Bundle Setup",
+      "rate": 4995,
+      "unit": "project",
+      "description": "Front desk, administrative assistant, customer support and CRM workflows; replaces component setup charges.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-105",
+      "name": "AI Business Operations Department Bundle Management",
+      "rate": 3495,
+      "unit": "month",
+      "description": "Managed front desk, administration, customer support and CRM workflows; usage separate; scope validated before quote.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-006",
+      "name": "Local Lead Generation Engine Bundle Setup",
+      "rate": 995,
+      "unit": "project",
+      "description": "Landing page and local lead campaign setup; replaces WEB landing page and LG-001 setup where included.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-106",
+      "name": "Local Lead Generation Engine Bundle Management",
+      "rate": 399,
+      "unit": "month",
+      "description": "Managed local lead campaign; accepted lead charges and media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-003",
+      "name": "High-Conversion Landing Page",
+      "rate": 499,
+      "unit": "project",
+      "description": "One conversion landing page with approved copy and lead capture.",
+      "type": "service"
     }
   ]
 }
