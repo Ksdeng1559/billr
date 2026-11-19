@@ -554,6 +554,750 @@
       "unit": "project",
       "description": "One conversion landing page with approved copy and lead capture.",
       "type": "service"
+    },
+    {
+      "sku": "SEO-007",
+      "name": "Comprehensive Local SEO Audit",
+      "rate": 599,
+      "unit": "project",
+      "description": "Full local visibility, site and competitor diagnostic with prioritized roadmap.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-008",
+      "name": "AI Search Visibility Audit",
+      "rate": 299,
+      "unit": "project",
+      "description": "Assess discoverability and content structure for AI search; no placement guarantee.",
+      "type": "service"
+    },
+    {
+      "sku": "AUD-001",
+      "name": "Business Marketing Systems Audit",
+      "rate": 499,
+      "unit": "project",
+      "description": "Assess marketing channels, conversion and operational gaps.",
+      "type": "service"
+    },
+    {
+      "sku": "AUD-002",
+      "name": "AI Automation Opportunity Assessment",
+      "rate": 499,
+      "unit": "project",
+      "description": "Identify repetitive workflows and estimate automation feasibility.",
+      "type": "service"
+    },
+    {
+      "sku": "AUD-003",
+      "name": "Lead Generation Systems Audit",
+      "rate": 399,
+      "unit": "project",
+      "description": "Assess acquisition, qualification, routing and attribution gaps.",
+      "type": "service"
+    },
+    {
+      "sku": "AUD-004",
+      "name": "Marketing Strategy Consulting",
+      "rate": 150,
+      "unit": "hour",
+      "description": "Hourly marketing strategy and advisory services.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-004",
+      "name": "Five-Page Professional Website",
+      "rate": 1250,
+      "unit": "project",
+      "description": "Five responsive pages with agreed design and foundational SEO.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-005",
+      "name": "Premium Business Website",
+      "rate": 1995,
+      "unit": "project",
+      "description": "Premium business website; agreed page count and functionality in estimate.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-006",
+      "name": "Additional Website Page",
+      "rate": 199,
+      "unit": "item",
+      "description": "One additional agreed website page.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-007",
+      "name": "Local Service Area Page",
+      "rate": 149,
+      "unit": "item",
+      "description": "One useful, distinct service area page based on verified coverage.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-008",
+      "name": "Schema Markup Implementation",
+      "rate": 249,
+      "unit": "project",
+      "description": "Implement and validate agreed structured data.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-009",
+      "name": "Website Conversion Optimization",
+      "rate": 499,
+      "unit": "project",
+      "description": "Implement agreed conversion improvements on scoped pages.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-010",
+      "name": "Lead Capture Integration",
+      "rate": 199,
+      "unit": "project",
+      "description": "Connect one lead form to agreed destination.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-011",
+      "name": "Website Hosting and Maintenance",
+      "rate": 49,
+      "unit": "month",
+      "description": "Standard hosting and maintenance within agreed limits; domain and custom work excluded.",
+      "type": "service"
+    },
+    {
+      "sku": "WEB-012",
+      "name": "One-Page Business Website",
+      "rate": 499,
+      "unit": "project",
+      "description": "One responsive business website with agreed copy and lead capture.",
+      "type": "service"
+    },
+    {
+      "sku": "GBP-002",
+      "name": "Local Citation Building",
+      "rate": 399,
+      "unit": "project",
+      "description": "Build or correct agreed directory citations; paid listings separate.",
+      "type": "service"
+    },
+    {
+      "sku": "GBP-003",
+      "name": "Review Generation System Setup",
+      "rate": 249,
+      "unit": "project",
+      "description": "Configure compliant review request workflow without review gating.",
+      "type": "service"
+    },
+    {
+      "sku": "GBP-004",
+      "name": "Google Business Profile Post",
+      "rate": 49,
+      "unit": "item",
+      "description": "One approved profile post.",
+      "type": "service"
+    },
+    {
+      "sku": "GBP-005",
+      "name": "Basic GBP Optimization",
+      "rate": 299,
+      "unit": "project",
+      "description": "Essential profile information and category improvements for one eligible profile.",
+      "type": "service"
+    },
+    {
+      "sku": "GBP-101",
+      "name": "GBP Posting and Monitoring",
+      "rate": 149,
+      "unit": "month",
+      "description": "Agreed profile posts and monitoring for one location.",
+      "type": "service"
+    },
+    {
+      "sku": "GBP-103",
+      "name": "Review Generation System Management",
+      "rate": 99,
+      "unit": "month",
+      "description": "Maintain approved review request workflow; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "REP-002",
+      "name": "Reputation Management Setup",
+      "rate": 149,
+      "unit": "project",
+      "description": "Configure review monitoring and approved response workflow.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-009",
+      "name": "Local SEO Starter Setup",
+      "rate": 299,
+      "unit": "project",
+      "description": "Establish local SEO baseline and initial scoped optimization.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-010",
+      "name": "Local Growth Management Setup",
+      "rate": 499,
+      "unit": "project",
+      "description": "Baseline, access and initial workflow configuration.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-011",
+      "name": "Local Market Domination Setup",
+      "rate": 995,
+      "unit": "project",
+      "description": "Advanced initial local SEO and attribution configuration.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-012",
+      "name": "Additional Location Management Setup",
+      "rate": 199,
+      "unit": "project",
+      "description": "Onboard one additional eligible location.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-103",
+      "name": "Additional Location Management",
+      "rate": 249,
+      "unit": "month",
+      "description": "Monthly agreed management for one additional location.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-104",
+      "name": "Local SEO Article Production",
+      "rate": 199,
+      "unit": "item",
+      "description": "One researched and reviewed local SEO article.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-105",
+      "name": "Semantic Content Cluster Development",
+      "rate": 995,
+      "unit": "project",
+      "description": "Develop one agreed topical content cluster.",
+      "type": "service"
+    },
+    {
+      "sku": "SEO-106",
+      "name": "AI Search Visibility Optimization",
+      "rate": 750,
+      "unit": "project",
+      "description": "Improve content structure and discoverability; no AI answer placement guarantee.",
+      "type": "service"
+    },
+    {
+      "sku": "CHAT-002",
+      "name": "Basic Website Chatbot Setup",
+      "rate": 299,
+      "unit": "project",
+      "description": "Configure a basic website chatbot with approved FAQs and handoff.",
+      "type": "service"
+    },
+    {
+      "sku": "CHAT-102",
+      "name": "Basic Website Chatbot Management",
+      "rate": 79,
+      "unit": "month",
+      "description": "Maintain basic chatbot configuration; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "CHAT-103",
+      "name": "Standard Business Knowledge Chatbot Management",
+      "rate": 149,
+      "unit": "month",
+      "description": "Standard knowledge chatbot maintenance; alternative to outcome-managed CHAT-101.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-005",
+      "name": "AI Review Response Agent Setup",
+      "rate": 299,
+      "unit": "project",
+      "description": "Configure approved review response drafting and escalation.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-105",
+      "name": "AI Review Response Agent Management",
+      "rate": 99,
+      "unit": "month",
+      "description": "Maintain response drafting workflow and approval rules.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-006",
+      "name": "AI WhatsApp Agent Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure approved WhatsApp workflows and escalation.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-106",
+      "name": "AI WhatsApp Agent Management",
+      "rate": 249,
+      "unit": "month",
+      "description": "Manage WhatsApp agent; messaging fees separate.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-103",
+      "name": "Database Reactivation Agent Management",
+      "rate": 199,
+      "unit": "month",
+      "description": "Maintain permissioned reactivation workflow; sending costs separate.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-007",
+      "name": "Multi-Channel Chat Agent Setup",
+      "rate": 1250,
+      "unit": "project",
+      "description": "Configure agreed chat channels and shared approved knowledge.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-107",
+      "name": "Multi-Channel Chat Agent Management",
+      "rate": 399,
+      "unit": "month",
+      "description": "Manage agreed chat channels; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-008",
+      "name": "AI Outbound Voice Agent Setup",
+      "rate": 1250,
+      "unit": "project",
+      "description": "Configure lawful approved outbound voice workflows with consent and escalation.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-108",
+      "name": "AI Outbound Voice Agent Management",
+      "rate": 399,
+      "unit": "month",
+      "description": "Manage approved outbound voice workflows; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-009",
+      "name": "AI Content Production Agent Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure content workflows, brand guidance and review gates.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-109",
+      "name": "AI Content Production Agent Management",
+      "rate": 299,
+      "unit": "month",
+      "description": "Maintain content workflows within agreed scope.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-010",
+      "name": "AI CRM Follow-up Agent Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure permissioned CRM follow-up workflows.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-110",
+      "name": "AI CRM Follow-up Agent Management",
+      "rate": 199,
+      "unit": "month",
+      "description": "Maintain approved CRM follow-up workflows; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-011",
+      "name": "Custom Client Brain Knowledge Base Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Build approved business knowledge base for agreed sources.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-111",
+      "name": "Custom Client Brain Knowledge Base Management",
+      "rate": 149,
+      "unit": "month",
+      "description": "Maintain agreed knowledge sources and updates.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-012",
+      "name": "Custom Multi-Agent Business Workflow Setup",
+      "rate": 2500,
+      "unit": "project",
+      "description": "Starting reference price; custom scope and estimate required.",
+      "type": "service"
+    },
+    {
+      "sku": "AI-112",
+      "name": "Custom Multi-Agent Business Workflow Management",
+      "rate": 499,
+      "unit": "month",
+      "description": "Starting reference price; scope and usage separately agreed.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-004",
+      "name": "Cold Email Infrastructure Setup",
+      "rate": 499,
+      "unit": "project",
+      "description": "Configure compliant sending infrastructure and approved campaign controls.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-005",
+      "name": "LinkedIn Outreach Campaign Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure human-approved compliant LinkedIn outreach workflow.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-006",
+      "name": "ICP and Buyer Persona Research",
+      "rate": 299,
+      "unit": "project",
+      "description": "Develop one target customer profile and buyer persona.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-008",
+      "name": "Custom Prospect Discovery Workflow",
+      "rate": 995,
+      "unit": "project",
+      "description": "Configure one agreed prospect research workflow.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-009",
+      "name": "Lead Qualification Automation",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure agreed qualification criteria, routing and human review.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-010",
+      "name": "Multi-Channel GTM Campaign Setup",
+      "rate": 2500,
+      "unit": "project",
+      "description": "Configure agreed channels, approved messaging and CRM attribution.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-011",
+      "name": "Lead Attribution System",
+      "rate": 499,
+      "unit": "project",
+      "description": "Configure agreed lead sources, tracking and reporting.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-107",
+      "name": "Application-Ready Qualified Opportunity",
+      "rate": 500,
+      "unit": "item",
+      "description": "One accepted application-ready opportunity; only where lawful and separately approved; no approval guarantee.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-108",
+      "name": "Verified B2B Contact",
+      "rate": 5,
+      "unit": "item",
+      "description": "Verified business contact channel; not a qualified enquiry.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-109",
+      "name": "Standard Qualified Local Lead",
+      "rate": 35,
+      "unit": "item",
+      "description": "Accepted qualified local enquiry; exclusivity only if agreed.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-110",
+      "name": "Emergency Service Lead",
+      "rate": 75,
+      "unit": "item",
+      "description": "Accepted urgent service enquiry meeting agreed criteria.",
+      "type": "service"
+    },
+    {
+      "sku": "LG-111",
+      "name": "High-Value Home Improvement Lead",
+      "rate": 125,
+      "unit": "item",
+      "description": "Accepted high-value home improvement enquiry under agreed criteria.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-003",
+      "name": "Meta Ads Campaign Setup",
+      "rate": 399,
+      "unit": "project",
+      "description": "Configure one agreed campaign; media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-004",
+      "name": "Meta Ads Management",
+      "rate": 499,
+      "unit": "month",
+      "description": "Manage one agreed campaign; media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-005",
+      "name": "YouTube Ads Campaign Setup",
+      "rate": 750,
+      "unit": "project",
+      "description": "Configure one agreed campaign; media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-006",
+      "name": "YouTube Ads Management",
+      "rate": 599,
+      "unit": "month",
+      "description": "Manage one agreed campaign; media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-007",
+      "name": "Retargeting Campaign Setup",
+      "rate": 399,
+      "unit": "project",
+      "description": "Configure compliant retargeting campaign; media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-008",
+      "name": "Retargeting Campaign Management",
+      "rate": 299,
+      "unit": "month",
+      "description": "Manage agreed retargeting campaign; media separate.",
+      "type": "service"
+    },
+    {
+      "sku": "ADS-009",
+      "name": "Conversion Tracking Setup",
+      "rate": 299,
+      "unit": "project",
+      "description": "Configure and validate agreed conversion events.",
+      "type": "service"
+    },
+    {
+      "sku": "CNT-001",
+      "name": "Social Media Content Package",
+      "rate": 499,
+      "unit": "month",
+      "description": "Produce agreed monthly social content; management scope in estimate.",
+      "type": "service"
+    },
+    {
+      "sku": "CNT-002",
+      "name": "Email Marketing Campaign or Sequence",
+      "rate": 399,
+      "unit": "project",
+      "description": "Prepare one approved permissioned email campaign or sequence.",
+      "type": "service"
+    },
+    {
+      "sku": "CNT-003",
+      "name": "Advertorial Landing Page",
+      "rate": 499,
+      "unit": "project",
+      "description": "One clearly disclosed advertorial landing page.",
+      "type": "service"
+    },
+    {
+      "sku": "CNT-004",
+      "name": "Lead Magnet Development",
+      "rate": 399,
+      "unit": "project",
+      "description": "Develop one agreed lead magnet.",
+      "type": "service"
+    },
+    {
+      "sku": "CNT-005",
+      "name": "Social Media Content Management Setup",
+      "rate": 299,
+      "unit": "project",
+      "description": "Configure content workflow and agreed channels.",
+      "type": "service"
+    },
+    {
+      "sku": "VID-002",
+      "name": "Five AI Promotional Videos",
+      "rate": 995,
+      "unit": "project",
+      "description": "Five short AI-assisted videos with agreed scope.",
+      "type": "service"
+    },
+    {
+      "sku": "VID-003",
+      "name": "Video Sales Letter",
+      "rate": 750,
+      "unit": "project",
+      "description": "One approved video sales letter.",
+      "type": "service"
+    },
+    {
+      "sku": "VID-004",
+      "name": "AI UGC-Style Video",
+      "rate": 299,
+      "unit": "item",
+      "description": "One AI-assisted promotional video; no fabricated customer testimonial.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-001",
+      "name": "CRM Integration",
+      "rate": 299,
+      "unit": "project",
+      "description": "Connect one standard agreed CRM workflow.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-002",
+      "name": "Calendar and Booking Integration",
+      "rate": 199,
+      "unit": "project",
+      "description": "Connect one standard calendar and booking workflow.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-003",
+      "name": "SMS Automation Integration",
+      "rate": 199,
+      "unit": "project",
+      "description": "Configure one approved SMS workflow; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-004",
+      "name": "WhatsApp Integration",
+      "rate": 299,
+      "unit": "project",
+      "description": "Configure one approved WhatsApp integration; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-005",
+      "name": "Custom API Integration",
+      "rate": 499,
+      "unit": "project",
+      "description": "Starting reference price; scope and estimate required.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-006",
+      "name": "Knowledge Base Development",
+      "rate": 349,
+      "unit": "project",
+      "description": "Develop scoped approved knowledge base content.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-007",
+      "name": "Advanced Call Routing",
+      "rate": 249,
+      "unit": "project",
+      "description": "Configure agreed call routing and transfer rules.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-008",
+      "name": "Additional Language Configuration",
+      "rate": 149,
+      "unit": "item",
+      "description": "Configure and test one additional language.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-009",
+      "name": "Call Tracking Configuration",
+      "rate": 249,
+      "unit": "project",
+      "description": "Configure agreed call attribution; telephony separate.",
+      "type": "service"
+    },
+    {
+      "sku": "INT-010",
+      "name": "Custom Agent Workflow Development",
+      "rate": 499,
+      "unit": "project",
+      "description": "Starting reference price; scope and estimate required.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-007",
+      "name": "Klick2Client Co-Op Marketing Activation",
+      "rate": 499,
+      "unit": "project",
+      "description": "Onboard participant to agreed shared marketing program.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-107",
+      "name": "Klick2Client Co-Op Marketing Participation",
+      "rate": 299,
+      "unit": "month",
+      "description": "Shared marketing participation; accepted lead fees and territory terms separately agreed.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-008",
+      "name": "Local Growth Accelerator Bundle Setup",
+      "rate": 1495,
+      "unit": "project",
+      "description": "Website, GBP optimization, chatbot and local growth onboarding.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-108",
+      "name": "Local Growth Accelerator Bundle Management",
+      "rate": 799,
+      "unit": "month",
+      "description": "Agreed chatbot, reputation and local SEO management; usage separate.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-009",
+      "name": "Complete AI Customer Acquisition System Setup",
+      "rate": 2995,
+      "unit": "project",
+      "description": "Website, local SEO, Vapi voice agent, chat, booking and lead generation setup; scope agreed.",
+      "type": "service"
+    },
+    {
+      "sku": "BND-109",
+      "name": "Complete AI Customer Acquisition System Management",
+      "rate": 1499,
+      "unit": "month",
+      "description": "Agreed integrated customer acquisition management; usage, media and performance fees separate.",
+      "type": "service"
     }
   ]
 }
